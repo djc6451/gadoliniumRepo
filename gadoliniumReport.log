@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.5)  6 MAY 2026 23:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.5)  7 MAY 2026 01:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -402,6 +402,15 @@ LaTeX Warning: Label `sec:level2' multiply defined.
 
 LaTeX Warning: Label `sec:level2' multiply defined.
 
+
+LaTeX Warning: Label `sec:level2' multiply defined.
+
+
+LaTeX Warning: Label `sec:level1' multiply defined.
+
+
+LaTeX Warning: Label `sec:level2' multiply defined.
+
 )
 \openout1 = `gadoliniumReport.aux'.
 
@@ -465,30 +474,34 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 82.
 
 (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<../../../Downloads/gadolinium2ApparatusCropped.pdf, id=56, 709.25977pt x 308.9
+)
+<../../../Downloads/gadolinium2ApparatusCropped.pdf, id=54, 709.25977pt x 308.9
 0407pt>
 File: ../../../Downloads/gadolinium2ApparatusCropped.pdf Graphic file (type pdf
 )
 <use ../../../Downloads/gadolinium2ApparatusCropped.pdf>
 Package pdftex.def Info: ../../../Downloads/gadolinium2ApparatusCropped.pdf  us
-ed on input line 109.
+ed on input line 102.
 (pdftex.def)             Requested size: 246.0pt x 107.13763pt.
+ [1{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../../../Dow
+nloads/gadolinium2ApparatusCropped.pdf>]
+<26Cperturbation2.png, id=82, 438.6789pt x 323.7696pt>
+File: 26Cperturbation2.png Graphic file (type png)
+<use 26Cperturbation2.png>
+Package pdftex.def Info: 26Cperturbation2.png  used on input line 150.
+(pdftex.def)             Requested size: 246.0pt x 181.56169pt.
+<download.png, id=84, 505.89pt x 323.7696pt>
+File: download.png Graphic file (type png)
+<use download.png>
+Package pdftex.def Info: download.png  used on input line 159.
+(pdftex.def)             Requested size: 246.0pt x 157.44305pt.
+ [2{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
-
-Package natbib Warning: Citation `Bednarz' on page 2 undefined on input line 13
-1.
-
-
-Package natbib Warning: Citation `Lanchester' on page 2 undefined on input line
- 132.
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 165.
 
 No file gadoliniumReport.bbl.
-
-Package natbib Warning: There were undefined citations.
-
-[2 <../../../Downloads/gadolinium2ApparatusCropped.pdf>]
-(./gadoliniumReport.aux)
+[3 <./26Cperturbation2.png> <./download.png>] (./gadoliniumReport.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -498,29 +511,31 @@ L3 programming layer <2025-09-02>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `gadoliniumReport.out' has not changed.
-(rerunfilecheck)             Checksum: 929EFCC0E9E90D60AE2AF65C3E4E451B;1500.
+(rerunfilecheck)             Checksum: 67E88A86A1E092DF7767ED0F3ACD5DD5;2023.
  ) 
 Here is how much of TeX's memory you used:
- 11970 strings out of 467748
- 178002 string characters out of 5431132
- 619108 words of memory out of 5000000
- 40509 multiletter control sequences out of 15000+600000
- 633734 words of font info for 62 fonts, out of 8000000 for 9000
+ 12021 strings out of 467748
+ 178888 string characters out of 5431132
+ 616427 words of memory out of 5000000
+ 40546 multiletter control sequences out of 15000+600000
+ 634069 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,688b,518s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,801b,518s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
 live/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2025/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2025/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texl
-ive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on gadoliniumReport.pdf (2 pages, 152547 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2025/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pf
+b><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/tex
+live/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2025/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2025/texmf-dist
+/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on gadoliniumReport.pdf (3 pages, 225795 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 167 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
